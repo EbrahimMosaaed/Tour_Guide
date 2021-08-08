@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">Egy Guide</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    //Taps
+    <string name="place_1">Cairo</string>
+    <string name="place_2">Aswan</string>
+    <string name="place_3">Alex</string>
+    <string name="place_4">Hurghada</string>
+
+    //Cairo
+    <string name="cairo_place_1">Pyramids of Giza</string>
+    <string name="cairo_place_2">The Egyptian Museum</string>
+    <string name="cairo_place_3">Khan el-Khalili</string>
+    <string name="cairo_detail_1">All three of Gizas famed pyramids and their elaborate burial complexes were built during a frenetic period of construction, from roughly 2550 to 2490 B.C. The pyramids were built by Pharaohs Khufu (tallest), Khafre (background), and Menkaure (front).</string>
+    <string name="cairo_detail_2">The Museum of Egyptian Antiquities, known commonly as the Egyptian Museum or the Cairo Museum, in Cairo, Egypt, is home to an extensive collection of ancient Egyptian antiquities. It has 120,000 items, with a representative amount on display and the remainder in storerooms. Built in 1901 by the Italian construction company, Garozzo-Zaffarani, to a design by the French architect Marcel Dourgnon, the edifice is one of the largest museums in the region. As of March 2019, the museum was open to the public. In 2021, the museum is due to be superseded by the newer and larger Grand Egyptian Museum at Giza.</string>
+    <string name="cairo_detail_3">Khan el-Khalili is a famous bazaar and souq in the historic center of Cairo, Egypt. Established as a center of trade in the Mamluk era and named for one of its several historic caravanserais, the bazaar district has since become one of Cairos main attractions for tourists and Egyptians alike. It is also home to many Egyptian artisans and workshops involved in the production of traditional crafts and souvenirs.</string>
+
+    //Aswan
+    <string name="aswan_place_1">The Nubian Museum</string>
+    <string name="aswan_place_2">The unfinished obelisk</string>
+    <string name="aswan_place_3">Elephantine</string>
+    <string name="aswan_place_4">Kitchener Island</string>
+    <string name="aswan_detail_1">The Nubian Museum is an archaeological museum located in Aswan, Upper Egypt. It was built to a design by architect Mahmoud El-Hakim for an estimated construction cost of LE 75 million. Dedicated to Nubian culture and civilization, it was inaugurated on November 23, 1997, and was awarded the Aga Khan Award for Architecture in 2001.</string>
+    <string name="aswan_detail_2">The unfinished obelisk is the largest known ancient obelisk and is located in the northern region of the stone quarries of ancient Egypt in Aswan, Egypt.</string>
+    <string name="aswan_detail_3">Elephantine is an island on the Nile, forming part of the city of Aswan in Upper Egypt. There are archaeological sites on the island</string>
+    <string name="aswan_detail_4">El Nabatat Island or Kitchener Island, is a small, oval-shaped island in the Nile at Aswan, Egypt. It is less than a kilometer long and its width is less than ½ a kilometer. The Aswan Botanical Garden is located on the island.</string>
+
+    //Alex
+    <string name="alex_place_1">Bibliotheca Alexandrina</string>
+    <string name="alex_place_2">Citadel of Qaitbay</string>
+    <string name="alex_detail_1">The Bibliotheca Alexandrina is a major library and cultural center on the shore of the Mediterranean Sea in the Egyptian city of Alexandria. It is both a commemoration of the Library of Alexandria that was lost in antiquity, and an attempt to rekindle something of the brilliance that this earlier center of study and erudition represented. The idea of reviving the old library dates back to 1974, when a committee set up by Alexandria University selected a plot of land for its new library. Construction work began in 1995 and, after some US$220 million had been spent, the complex was officially inaugurated on 16 October 2002. In 2010, the library received a donation of 500,000 books from the Bibliothèque nationale de France. The gift makes the Bibliotheca Alexandrina the sixth-largest Francophone library in the world. The library has shelf space for eight million books, with the main reading room covering 20,000 square metres</string>
+    <string name="alex_detail_2">The Citadel of Qaitbay is a 15th-century defensive fortress located on the Mediterranean sea coast, in Alexandria, Egypt. It was established in 1477 AD by Sultan Al-Ashraf Sayf al-Din Qait Bay. The Citadel is situated on the eastern side of the northern tip of Pharos Island at the mouth of the Eastern Harbour.</string>
+
+    //Hurghada
+    <string name="hurghada_place_1">Hurghada Grand Aquarium</string>
+    <string name="hurghada_place_2">Sindbad</string>
+    <string name="hurghada_detail_1">Hurghada Aquarium is an aquarium located in Hurghada, Red Sea Governorate, Egypt in Magawish area. It opened in January 2015, and contains nearly 1 million gallons in tank space. It is home to over 1200 individual animals, and 100 species. It is easily one of the continents largest aquariums, as well as Egypts largest and nearly the largest in the Arab world. It contains 24 separate exhibits, included among them a shark tunnel, rainforest and "Whale Valley", based on fossils found in the Western Desert. The facility is also home to a Bedouin life exhibit, and an animal zoo. The Aquarium’s notable specimens include: nurse shark, stingrays, green sea turtle, shovelnose guitarfish and eagle rays.</string>
+    <string name="hurghada_detail_2">Sindbad Submarine promises 3 hours of fun to its visitors. Sindbad Submarine is an actual underwater submarine that can travel 22 meters deep and travelers can observe coral fish, colored fish and diversity of life below the sea.</string>
+
+</resources>
